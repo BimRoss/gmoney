@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img src="gmoney.png" style="width: 50%; border-radius: 100px;">
   <h1>Whitepaper</h1>
 </div>
