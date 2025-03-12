@@ -118,5 +118,3 @@ The protocol earns external revenue from a variety of sources. This revenue is u
 - 100K USDC is sent to the treasury
 - 100K GMONEY is added to the POL
 - 200K GMONEY intial supply
-
-## Modeling
